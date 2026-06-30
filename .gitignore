@@ -1,0 +1,3 @@
+# VSIX binaries are distributed via GitHub Releases, not committed.
+*.vsix
+.DS_Store
