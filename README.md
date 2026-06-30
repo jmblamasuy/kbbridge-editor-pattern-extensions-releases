@@ -13,7 +13,7 @@ Each extension's `.vsix` is published as a **GitHub Release** of this repository
 | Extension | Provider | Patterns | Download | Docs |
 |---|---|---|---|---|
 | **GeneXus Work With** | KBBridge | Work With (Web) | [⬇ Releases](../../releases) | [README](extensions/genexus-workwith/README.md) · [CHANGELOG](extensions/genexus-workwith/CHANGELOG.md) |
-| **PXTools Patterns** | PuntoExe | PXWorkWith, PXParameterRequest, PXComposer, and more | _(pending build)_ | [README](extensions/pxtools-patterns/README.md) · [CHANGELOG](extensions/pxtools-patterns/CHANGELOG.md) |
+| **PXTools Patterns** | PuntoExe | PXWorkWith, PXParameterRequest, PXComposer, and more | [⬇ Releases](../../releases) | [README](extensions/pxtools-patterns/README.md) · [CHANGELOG](extensions/pxtools-patterns/CHANGELOG.md) |
 
 ## Installing a pattern extension
 

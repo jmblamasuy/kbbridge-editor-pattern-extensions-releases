@@ -18,7 +18,7 @@ pattern catalog.
 
 1. Install **KB Editor** first.
 2. Download `pxtools-patterns-<version>.vsix` from the [latest Release](../../../releases)
-   _(added when published)_.
+  .
 3. **Extensions ▸ … ▸ Install from VSIX…**, then **Reload Window**.
 4. Open a PXTools `.gxPattern` instance.
 
