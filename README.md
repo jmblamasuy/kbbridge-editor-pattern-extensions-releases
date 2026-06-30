@@ -23,11 +23,11 @@ Each extension's `.vsix` is published as a **GitHub Release** of this repository
    `code --install-extension <file>.vsix`).
 4. **Reload Window**, then open a `.gxPattern` instance of a supported pattern.
 
-## Publishing your extension here
+## Maintainership
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). In short: build your `.vsix`, add an
-`extensions/<your-extension>/` folder with a `README.md` + `CHANGELOG.md`, and attach the
-`.vsix` to a GitHub Release.
+This catalog is **curated solely by KBBridge** — it only distributes the `.vsix` releases and
+their listings. External pull requests are not accepted. To **suggest** a pattern extension
+for listing, or to **report a problem**, please [open an Issue](../../issues).
 
 ## Building a pattern extension
 
