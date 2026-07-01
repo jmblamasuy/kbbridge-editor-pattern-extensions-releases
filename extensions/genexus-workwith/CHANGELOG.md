@@ -2,6 +2,13 @@
 
 This project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.1.3] - 2026-07-01
+
+### Added
+- Bundle the `Event` icon (used by the `Actions` / `Action` / `Modes` nodes). It lives in a
+  different GeneXus assembly than the rest of the Work With icons, so it was missing from the
+  initial icon set and those nodes fell back to a generic glyph; they now render the real icon.
+
 ## [0.1.2] - 2026-07-01
 
 ### Added
