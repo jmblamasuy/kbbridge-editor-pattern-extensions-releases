@@ -2,6 +2,20 @@
 
 This project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.1.2] - 2026-07-01
+
+### Added
+- **Node icons.** The pattern tree now renders the Work With pattern's real icons.
+  They are bundled with the extension and delivered to KB Editor via the new
+  `getNodeIcon` hook (as `data:` URIs), so they render without the GeneXus SDK or
+  .NET assemblies on the client. Requires a KB Editor build that calls `getNodeIcon`.
+
+## [0.1.1] - 2026-07-01
+
+### Changed
+- More robust activation and a clear warning when KB Editor is outdated and does not
+  expose the pattern extensibility API.
+
 ## [0.1.0] - 2026-06-30
 
 ### Added
