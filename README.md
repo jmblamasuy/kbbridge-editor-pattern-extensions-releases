@@ -31,5 +31,5 @@ for listing, or to **report a problem**, please [open an Issue](../../issues).
 
 ## Building a pattern extension
 
-New to this? Start with the **Pattern Extensibility for KB Editor** documentation and the
-`kbbridge-editor-pattern-starter` template.
+New to this? Start with the [**Pattern Extensibility for KB Editor**](https://github.com/jmblamasuy/kbbridge-editor-pattern-extensions-documentation) documentation and the
+[`kbbridge-editor-pattern-starter`](https://github.com/jmblamasuy/kbbridge-editor-pattern-starter) template.

@@ -24,8 +24,8 @@ Editor support for the GeneXus **Work With (Web)** pattern inside KB Editor.
 
 This extension is also the open, worked **reference example** for building KB Editor pattern
 extensions (a faithful TypeScript port of the GeneXus Work With pattern). See the
-`kbbridge-editor-pattern-genexus-workwith` project and the *Pattern Extensibility for KB
-Editor* docs.
+[`kbbridge-editor-pattern-genexus-workwith`](https://github.com/jmblamasuy/kbbridge-editor-pattern-genexus-workwith) project and the [*Pattern Extensibility for KB
+Editor*](https://github.com/jmblamasuy/kbbridge-editor-pattern-extensions-documentation) docs.
 
 ## License / attribution
 
