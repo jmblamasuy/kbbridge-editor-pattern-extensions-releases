@@ -2,6 +2,13 @@
 
 This project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.1.4] - 2026-07-01
+
+### Fixed
+- **Activation-ordering resilience.** No longer warns that KB Editor lacks the pattern
+  extensibility API when the extension merely activated before KB Editor finished exposing it;
+  it now retries for a short window and registers its providers once KB Editor is ready.
+
 ## [0.1.3] - 2026-07-01
 
 ### Added
